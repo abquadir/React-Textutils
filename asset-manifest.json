@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/.github.io/React-Textutils/static/js/main.571fd9d1.js",
-    "index.html": "/.github.io/React-Textutils/index.html",
-    "main.571fd9d1.js.map": "/.github.io/React-Textutils/static/js/main.571fd9d1.js.map"
+    "main.js": "/React-Textutils/static/js/main.571fd9d1.js",
+    "index.html": "/React-Textutils/index.html",
+    "main.571fd9d1.js.map": "/React-Textutils/static/js/main.571fd9d1.js.map"
   },
   "entrypoints": [
     "static/js/main.571fd9d1.js"
